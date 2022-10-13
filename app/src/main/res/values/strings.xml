@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shaadi.Com</string>
+    <string name="no_profiles_found">No Profiles Found</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="member_accepted">Member Accepted</string>
+    <string name="member_declined">Member Declined</string>
+</resources>

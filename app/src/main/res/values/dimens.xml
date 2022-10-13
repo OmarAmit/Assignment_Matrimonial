@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="li_item_profile_card_size">300dp</dimen>
+    <dimen name="li_item_profile_iv_size">120dp</dimen>
+    <dimen name="li_item_profile_iv_border">2dp</dimen>
+    <dimen name="li_item_profile_primary_margin">16dp</dimen>
+    <dimen name="li_item_profile_secondary_margin">8dp</dimen>
+    <dimen name="li_item_profile_name_font_size">16sp</dimen>
+    <dimen name="li_item_profile_details_font_size">12sp</dimen>
+    <dimen name="li_item_profile_btn_size">32dp</dimen>
+    <dimen name="li_item_profile_card_radius">10dp</dimen>
+</resources>
